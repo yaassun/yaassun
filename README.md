@@ -5,7 +5,7 @@
 
 
 
-### 🚀Tenho interesse em aprender cada vez mais sobre tecnologia e estou focada em construir uma base sólida em desenvolvimento front-end.  
+### 🚀Tenho interesse em aprender cada vez mais sobre tecnologia e estou focada em construir uma base sólida em desenvolvimento full-stack.  
 ### No momento, estou estudando:
 ![HTML5](https://img.shields.io/badge/HTML5-976FC4?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-976FC4?style=for-the-badge&logo=css3&logoColor=white)
